@@ -1,0 +1,2 @@
+# SprykerB2C
+SprykerCode
